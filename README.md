@@ -21,7 +21,7 @@ This project implements an intelligent SQL query agent using LangGraph and LangC
 - **Robust Error Handling**: Provides fallback mechanisms and helpful error messages
 - **Conditional Workflow Routing**: Dynamically adjusts processing based on query context and execution results
 
-<img src="https://github.com/user-attachments/assets/f864eeb7-cb8a-4b52-91cb-3242122a20cc" width="400" height="500" alt="SQL Query Agent Architecture">
+<img src="https://github.com/user-attachments/assets/f864eeb7-cb8a-4b52-91cb-3242122a20cc" width="500" height="500" alt="SQL Query Agent Architecture">
 
 ## Technical Implementation
 
