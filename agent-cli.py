@@ -13,7 +13,6 @@ import json
 import hashlib
 import requests
 from typing import Dict, List, Optional, Union
-import readline  # Enable command history and editing
 
 # Import necessary packages
 try:
